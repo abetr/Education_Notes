@@ -1,0 +1,22 @@
+#paragraf3{ background-color: hotpink;
+}
+
+#paragraf2{ background-color: yellow;
+font-size: 35px;
+}
+
+.paragraf5{background-color: aqua;
+}
+#p6{background-color: blueviolet;
+border: 3px solid blue;
+margin: 50px;
+padding: 15px;
+border-radius: 25px;}
+
+* { font-style: italic ;
+
+
+}
+
+/* burada yıldız işareti ile tüm yazıları italik yaptık. 
+yıldız dedin mi hepsine uygula der */
