@@ -1,3 +1,6 @@
 # Education_Notes
-edu notes
-second failed attempt
+Hi,
+Here is my educational notes. This is my prograss on some programming languages.
+
+Thank you.
+
