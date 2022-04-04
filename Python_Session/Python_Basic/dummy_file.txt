@@ -1,0 +1,2 @@
+This is the line for my dummy_file.txt
+This is the new line for my dummy_file.txt
